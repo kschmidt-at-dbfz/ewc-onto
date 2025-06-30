@@ -4,7 +4,7 @@
 
 The ewc-onto is the translation of the European Waste Catalogue into an ontology.
 
-![ewc-onto](docs/images/ewc-onto_structure.png)
+![ewc-onto](docs/OntoPic_DetailAgriculture.png)
 
 **Fig. 1. A part of the structure in ewc-onto.** 
 
