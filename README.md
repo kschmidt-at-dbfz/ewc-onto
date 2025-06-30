@@ -1,6 +1,6 @@
 # European Waste Catalogue Ontology
 
-[//]: <> ([![DOI](https://zenodo.org/badge/927218818.svg)](https://doi.org/10.5281/zenodo.14833002) eigener Link... )
+[//]: # ([![DOI](https://zenodo.org/badge/927218818.svg)](https://doi.org/10.5281/zenodo.14833002) eigener Link... )
 
 ## Intoduction
 
