@@ -26,6 +26,8 @@ In the current version (v1.0) English and German language are available. Additio
 
 The ontology was developed with [Protégé](https://protege.stanford.edu/) and can be openend and transformed into other data types (owl, rdf) there without any problems.
 
+New instances can be included in ewc-onto and by using the reasoner the waste instances can be assigned to the correct residue class.
+
 ## References
 - [European Wase Catalogue](http://data.europa.eu/eli/dec/2014/955/oj) (2014/955/EU: Commission Decision of 18 December 2014 amending Decision 2000/532/EC on the list of waste pursuant to Directive 2008/98/EC of the European Parliament and of the Council Text with EEA relevance) from December 30 2014
 - [Abfallverzeichnis-Verordnung](https://www.gesetze-im-internet.de/avv/AVV.pdf) (Verordnung über das Europäische Abfallverzeichnis (Abfallverzeichnis-Verordnung - AVV)) from 30 June 2020
