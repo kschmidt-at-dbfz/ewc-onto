@@ -10,6 +10,11 @@ The ewc-onto is the translation of the [European Waste Catalogue](http://data.eu
 
 The information about the hazardousness, which is also included in the EWC, is implemented as an additional class in the ontology with two subclasses (*hazardous* and *non-hazardous*). The third layer of the waste tree (residues) is connected to the second layer of the hazardousness tree via an object property.
 
+![ewc-onto](docs/OntoPic_DetailW02_01_Connections.png)
+
+*Fig. 2. Some exemplary classes of ewc-onto and their connections to other classes: blue line - has subclass; purple line - has instance; gray dotted line - has some hazardousness of; green dashed - has hazardousness; yellow dashed line - is hazardousness of; orange dashed line - has hazardousness
+These tripples (class - connection - class) can be transformed to sentences (object - verb - object) as* Hazardousness has subclass Non-Hazardous *.*
+
 In the current version (v1.0) English and German language are available. Additionally, four examplary instrances are included in the ontology. In the next version we plan to include more biogenic residues as instances. 
 
 ## Versions
