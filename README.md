@@ -13,7 +13,7 @@ The information about the hazardousness, which is also included in the EWC, is i
 ![ewc-onto](docs/OntoPic_DetailW02_01_Connections.png)
 
 *Fig. 2. Some exemplary classes of ewc-onto and their connections to other classes: blue line - has subclass; purple line - has instance; gray dotted line - has some hazardousness of; green dashed - has hazardousness; yellow dashed line - is hazardousness of; orange dashed line - has hazardousness
-These tripples (class - connection - class) can be transformed to sentences (object - verb - object) as* Hazardousness has subclass Non-Hazardous *.*
+These tripples (class - connection - class) can be transformed to sentences (object - verb - object) as* Hazardousness has subclass Non-Hazardous. *This figure was made with OntoGraf in [Protégé](https://protege.stanford.edu/)*
 
 In the current version (v1.0) English and German language are available. Additionally, four examplary instrances are included in the ontology. In the next version we plan to include more biogenic residues as instances. 
 
@@ -29,6 +29,7 @@ The ontology was developed with [Protégé](https://protege.stanford.edu/) and c
 ## References
 - [European Wase Catalogue](http://data.europa.eu/eli/dec/2014/955/oj) (2014/955/EU: Commission Decision of 18 December 2014 amending Decision 2000/532/EC on the list of waste pursuant to Directive 2008/98/EC of the European Parliament and of the Council Text with EEA relevance) from December 30 2014
 - [Abfallverzeichnis-Verordnung](https://www.gesetze-im-internet.de/avv/AVV.pdf) (Verordnung über das Europäische Abfallverzeichnis (Abfallverzeichnis-Verordnung - AVV)) from 30 June 2020
+- [Protégé](https://protege.stanford.edu/)
 
 ## See also
 - [An ontology to identify biogenic wastes and residues from bioeconomy](https://doi.org/10.37307/j.1863-9763.2025.06.03), published June 11 2025, publication language German
