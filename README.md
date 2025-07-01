@@ -2,15 +2,15 @@
 
 ## Intoduction
 
-The ewc-onto is the translation of the [European Waste Catalogue](http://data.europa.eu/eli/dec/2014/955/oj) (EWC) into an ontology. The hierarchy from the EWC was completely preserved, which means the ontology includes the 20 top-level categories (waste classes), subordinated the waste groups per waste class as lowes level the residues per waste group. This structure results in 991 classes in the ontology. These classes are named by their waste code from the EWC, which is two numbers per layer, and by their human understandable description. Additionally, the waste code is given as a data property. The structure of the ontology is depicted in Fig. 1.
+The ewc-onto is the translation of the [European Waste Catalogue](http://data.europa.eu/eli/dec/2014/955/oj) (EWC) into an ontology. The hierarchy from the EWC was completely preserved, which means the ontology includes the 20 top-level categories (waste classes), subordinated the waste groups per waste class, and as lowes level the residues per waste group. This structure results in 990 classes in the ontology. These classes are named by their waste code from the EWC, which is two numbers per layer, and by their human understandable description. Additionally, the waste code can be given as a data property. The structure of the ontology is depicted in Fig. 1.
 
 ![ewc-onto](docs/OntoPic_DetailAgriculture.png)
 
-*Fig. 1. A view on the waste class 02 (wastes from agriculture, ...) as an example for the structure of the ontology. As names of the classes, only the waste codes are given.*
+*Fig. 1. A view on the waste class 02 (wastes from agriculture, ...) and its subclasses as an example for the structure of the ontology. As names of the classes only their waste codes are given. Icon indicate the meaning of the class, whereby the same icons have the same meaning.*
 
-The information about the hazardousness, which is also included in the EWC, is implemented as an additional class in the ontology with two subclasses. The third layer of the waste tree is connected to the second layer of the hazardousness tree via an object property.
+The information about the hazardousness, which is also included in the EWC, is implemented as an additional class in the ontology with two subclasses (*hazardous* and *non-hazardous*). The third layer of the waste tree (residues) is connected to the second layer of the hazardousness tree via an object property.
 
-In the current version (v1.0) English and German language are available. Additionally, four examplary instrances are included in the ontology.
+In the current version (v1.0) English and German language are available. Additionally, four examplary instrances are included in the ontology. In the next version we plan to include more biogenic residues as instances. 
 
 ## Versions
 
