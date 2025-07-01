@@ -12,8 +12,8 @@ The information about the hazardousness, which is also included in the EWC, is i
 
 ![ewc-onto](docs/OntoPic_DetailW02_01_Connections.png)
 
-*Fig. 2. Some exemplary classes of ewc-onto and their connections to other classes: blue line - has subclass; purple line - has instance; gray dotted line - has some hazardousness of; green dashed - has hazardousness; yellow dashed line - is hazardousness of; orange dashed line - has hazardousness
-These tripples (class - connection - class) can be transformed to sentences (object - verb - object) as* Hazardousness has subclass Non-Hazardous. *This figure was made with OntoGraf in [Protégé](https://protege.stanford.edu/).*
+*Fig. 2. Some exemplary classes (gray boxes with yellow circles) and instances (gray boxes with purple diamond) of ewc-onto and their connections (blue line - has subclass; purple line - has instance; gray dotted line - has some hazardousness of; green dashed - has hazardousness; yellow dashed line - is hazardousness of; orange dashed line - has hazardousness).
+These tripples (class - connection - class) can be transformed into sentences (object - verb - object) as* Hazardousness has subclass Non-Hazardous *to capture their meening. This figure was made with OntoGraf in [Protégé](https://protege.stanford.edu/).*
 
 In the current version (v1.0) English and German language are available. Additionally, four examplary instrances are included in the ontology. In the next version we plan to include more biogenic residues as instances. 
 
