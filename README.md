@@ -22,7 +22,7 @@ In the current version (v1.0) English and German language are available. Additio
 ## Versions
 
 [comment]: <> (- v2.0 - EWC implementation + residues from RedDB, last modified: work in progress) 
-- v1.0 - EWC implementation + exemplary instances, last modified: May 2025 
+- v1.0 - EWC implementation + exemplary instances, last modified: July 2025 
 
 ## How to use
 
