@@ -10,10 +10,6 @@ authors:
     given-names: Kim
     orcid: https://orcid.org/0009-0008-4574-9468
   - affiliation: Deutsches Biomasseforschungszentrum gemeinnützige GmbH
-    family-names: Selig
-    given-names: Marco
-    orcid: https://orcid.org/0009-0007-1484-9653
-  - affiliation: Deutsches Biomasseforschungszentrum gemeinnützige GmbH
     family-names: Radtke
     given-names: Kai Sven
     orcid: https://orcid.org/0009-0001-3056-438X
@@ -21,6 +17,10 @@ authors:
     family-names: Uciteli
     given-names: Alexandr
     orcid: https://orcid.org/0000-0001-9558-5352
+  - affiliation: Deutsches Biomasseforschungszentrum gemeinnützige GmbH
+    family-names: Selig
+    given-names: Marco
+    orcid: https://orcid.org/0009-0007-1484-9653
 date-released: 2025-07-08
 keywords:
   - ontology
