@@ -2,7 +2,7 @@
 
 ## Intoduction
 
-The ewc-onto is the translation of the [European Waste Catalogue](http://data.europa.eu/eli/dec/2014/955/oj) (EWC) into an ontology. The hierarchy from the EWC was completely preserved, which means the ontology includes the 20 top-level categories (waste classes), subordinated the waste groups per waste class, and as lowes level the residues per waste group. This structure results in 990 classes in the ontology. These classes are named by their waste code from the EWC, which is two numbers per layer, and by their human understandable description. Additionally, the waste code can be given as a data property. The structure of the EWC is depicted in Fig. 1.
+The ewc-onto is the translation of the [European Waste Catalogue](http://data.europa.eu/eli/dec/2014/955/oj) (EWC) into an ontology. The hierarchy and the names of the classes were completely preserved from the EWC, which means the ontology includes the 20 top-level categories (waste classes), subordinated the waste groups per waste class, and as lowes level the residues per waste group. This structure results in 990 classes in the ontology. These classes are named by their waste code from the EWC, which is two numbers per layer, and by their human understandable description. Additionally, the waste code can be given as a data property. The structure of the EWC is depicted in Fig. 1.
 
 ![ewc structure](docs/OntoPic_DetailAgriculture.png)
 
