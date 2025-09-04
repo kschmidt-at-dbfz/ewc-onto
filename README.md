@@ -37,3 +37,4 @@ New instances can be included in ewc-onto and by using the reasoner the waste in
 
 ## See also
 - [An ontology to identify biogenic wastes and residues from bioeconomy](https://doi.org/10.37307/j.1863-9763.2025.06.03), published June 11 2025, publication language German
+- [An Ontology Classifying Residues from the Bioeconomy](https://ceur-ws.org/Vol-3967/PD_paper_178.pdf), published May 24 2025, publication language English
